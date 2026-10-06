@@ -6,29 +6,12 @@ Representar a precificação de cálculos de cada tela formalizada e alinhamento
 
 ## ⚙ Atribuição de pesos - Tabela de Referência
 
-Função
-C. BAIXA
-C. MÉDIA
-C. ALTA
-ALI
-7
-10
-15
-AIE
-5
-7
-10
-EE
-3
-4
-6
-SE
-4
-5
-7
-CE
-3
-4
-6
+Função:
+
+ALI: Complexidades (Baixa = 7, Média = 10, Alta = 15)
+AIE: Complexidades (Baixa = 5, Média = 7, Alta = 10)
+EE: Complexidades (Baixa = 3, Média = 4, Alta = 6)
+SE: Complexidades (Baixa = 4, Média = 5, Alta = 7)
+CE: Complexidades (Baixa = 3, Média = 4, Alta = 6)
 
 
